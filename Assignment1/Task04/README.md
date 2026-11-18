@@ -1,0 +1,4 @@
+# Task 04 — Classes, Objects and Constructors
+ParkingTicket can contain ticketNo, Vehicle, entryTime and ParkingSlot, with getters, close() and duration methods. A default constructor is useful only for a meaningful default state; parameterised constructors create valid objects; overloads support alternate valid inputs. Use this(...) for constructor chaining and super(...) for superclass initialisation. A copy constructor is not appropriate for issuing another ticket because ticket identity must remain unique.
+
+Example: a constructor validates registration before assigning final fields. Local reference variables live in stack frames while objects are allocated on the heap. Passing an object passes a copy of its reference. Creating n tickets takes O(n) total time and O(n) heap space. Constructors/factories guarantee valid state earlier than a sequence of setters.
