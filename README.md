@@ -32,3 +32,10 @@ javac Assignment1/Task12/AdaptedParkingDemo.java && java -cp Assignment1/Task12 
 ~~~
 
 Run the programs locally and add genuine output screenshots before submission. See Assignment1/README.md.
+
+
+## Assignment 2 – CO2: Strings, Collections and Generics
+
+Student: Shalinee KG | Register number: 192511048 | Java: 17
+
+The Assignment 2 work is organized in [Assignment2](Assignment2/README.md), with separate Task01–Task07 folders. It includes Java implementations and benchmark programs. Run the benchmark programs locally and add your actual CSV measurements and execution screenshots before submission.
