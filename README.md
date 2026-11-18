@@ -15,3 +15,20 @@ Assignment files are organized under [Assignment5](Assignment5/README.md).
 Use JDK 17 or later. JDBC tasks require MySQL Server and MySQL Connector/J. See the task README files for compile/run instructions.
 
 **Before submission:** execute the programs on your computer, add actual output screenshots and input files, and fill timing tables with measurements from your own runs. No measured values or screenshots have been fabricated.
+
+
+## Assignment 1 – Campus Smart-Parking System (CO1)
+
+Student: Shalineee KG | Register number: 192511048 | Java: 17
+
+The Assignment 1 work is organized in [Assignment1](Assignment1/README.md), with one folder for each Task01–Task12. The completed Java exercises are Task03/ParkingFacility.java and Task08/FeeDemo.java; the design challenge demo is Task12/AdaptedParkingDemo.java.
+
+Compile/run from the repository root:
+
+~~~bash
+javac Assignment1/Task03/ParkingFacility.java && java -cp Assignment1/Task03 ParkingFacility
+javac Assignment1/Task08/FeeDemo.java && java -cp Assignment1/Task08 FeeDemo
+javac Assignment1/Task12/AdaptedParkingDemo.java && java -cp Assignment1/Task12 AdaptedParkingDemo
+~~~
+
+Run the programs locally and add genuine output screenshots before submission. See Assignment1/README.md.
