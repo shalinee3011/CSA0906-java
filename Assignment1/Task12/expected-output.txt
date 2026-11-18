@@ -1,0 +1,3 @@
+E-bike -> Rs 15.0
+Delivery van daytime -> Rs 120.0
+Visitor one-day pass -> Rs 0.0
