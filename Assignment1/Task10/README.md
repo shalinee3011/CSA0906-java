@@ -1,0 +1,4 @@
+# Task 10 — Packages and Encapsulation
+Suggested packages: parking.model (Vehicle, ParkingTicket, ParkingSlot), parking.pricing (PricingRule), parking.service (ParkingService, ParkingFacility), parking.app (ParkingApp). Keep fields private; use public methods for the API, protected only for subclass extension, and package-private for tightly related classes. Validate blank registration, negative duration/rate and invalid slot coordinates before mutation.
+
+Wrapper classes support collections and nullable values. Autoboxing converts int to Integer; do not use == for numeric Integer equality—use equals() or unbox. Public fields force every caller to repeat validation; a missed check can corrupt state. A validation check is O(1), but centralising it avoids repeated checks across many call sites.
