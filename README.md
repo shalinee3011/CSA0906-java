@@ -48,3 +48,12 @@ Student: Shalinee KG | Register number: 192511048 | Java: 17
 The assignment is organized in [Assignment3](Assignment3/README.md), with separate Task01–Task07 folders. Includes ATM exceptions, custom exception propagation, resource safety, threads, synchronized seat booking, producer–consumer, wallet transfer and a concurrent result processor.
 
 Run every program locally and add your own output screenshots, test tables, repeated-run observations, debug logs and raw measurements. The PDF requires each student to individually execute every task and maintain an individual repository named CSA09-<RegisterNumber>-Assignment3; check with your faculty whether this existing repository is acceptable.
+
+
+## Assignment 4 – CO4: Event-Driven GUI Design
+
+Student: Shalinee KG | Register number: 192511048 | Java: 8+ recommended
+
+The assignment is organized in [Assignment4](Assignment4/README.md), with separate Task01–Task06 folders. It includes the fee-window redesign, hospital appointment event model, library search layout, repaired DrawPad, four converter listener styles, and a layered Swing/JDBC campus event registration application with a MySQL schema.
+
+Run the GUI programs locally and add genuine screenshots for the required interactions. Task 6 requires MySQL Server and MySQL Connector/J. The assignment PDF specifies an individual repository named CSA09-192511048-Assignment4; confirm with faculty whether this existing repository name is acceptable.
