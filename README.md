@@ -39,3 +39,12 @@ Run the programs locally and add genuine output screenshots before submission. S
 Student: Shalinee KG | Register number: 192511048 | Java: 17
 
 The Assignment 2 work is organized in [Assignment2](Assignment2/README.md), with separate Task01–Task07 folders. It includes Java implementations and benchmark programs. Run the benchmark programs locally and add your actual CSV measurements and execution screenshots before submission.
+
+
+## Assignment 3 – CO3: Exception Handling and Multithreading
+
+Student: Shalinee KG | Register number: 192511048 | Java: 17
+
+The assignment is organized in [Assignment3](Assignment3/README.md), with separate Task01–Task07 folders. Includes ATM exceptions, custom exception propagation, resource safety, threads, synchronized seat booking, producer–consumer, wallet transfer and a concurrent result processor.
+
+Run every program locally and add your own output screenshots, test tables, repeated-run observations, debug logs and raw measurements. The PDF requires each student to individually execute every task and maintain an individual repository named CSA09-<RegisterNumber>-Assignment3; check with your faculty whether this existing repository is acceptable.
