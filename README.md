@@ -19,7 +19,7 @@ Use JDK 17 or later. JDBC tasks require MySQL Server and MySQL Connector/J. See 
 
 ## Assignment 1 – Campus Smart-Parking System (CO1)
 
-Student: Shalineee KG | Register number: 192511048 | Java: 17
+Student: Shalinee KG | Register number: 192511048 | Java: 17
 
 The Assignment 1 work is organized in [Assignment1](Assignment1/README.md), with one folder for each Task01–Task12. The completed Java exercises are Task03/ParkingFacility.java and Task08/FeeDemo.java; the design challenge demo is Task12/AdaptedParkingDemo.java.
 
